@@ -9,3 +9,7 @@ print(v2)
 print(v3)
 print(v4)
 print(v5)
+
+print(v[2])
+print(v[c(1, 3, 1)]) # vの1,3,1番目を取得する
+print(v[-1])
